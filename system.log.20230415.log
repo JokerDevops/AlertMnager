@@ -1,0 +1,6 @@
+{"client_ip":"127.0.0.1","level":"info","msg":"","req_method":"POST","req_proto":"HTTP/1.1","req_ua":"PostmanRuntime/7.32.2","req_uri":"/promethusAlert","status_code":200,"time":"2023-04-15 21:58:43"}
+{"client_ip":"127.0.0.1","level":"info","msg":"","req_method":"POST","req_proto":"HTTP/1.1","req_ua":"PostmanRuntime/7.32.2","req_uri":"/promethusAlert","status_code":200,"time":"2023-04-15 21:58:45"}
+{"client_ip":"127.0.0.1","level":"info","msg":"","req_method":"POST","req_proto":"HTTP/1.1","req_ua":"PostmanRuntime/7.32.2","req_uri":"/promethusAlert","status_code":200,"time":"2023-04-15 21:58:46"}
+{"client_ip":"127.0.0.1","level":"info","msg":"","req_method":"POST","req_proto":"HTTP/1.1","req_ua":"PostmanRuntime/7.32.2","req_uri":"/promethusAlert","status_code":200,"time":"2023-04-15 21:58:46"}
+{"client_ip":"127.0.0.1","level":"info","msg":"","req_method":"POST","req_proto":"HTTP/1.1","req_ua":"PostmanRuntime/7.32.2","req_uri":"/promethusAlert","status_code":200,"time":"2023-04-15 21:58:47"}
+{"client_ip":"127.0.0.1","level":"info","msg":"","req_method":"POST","req_proto":"HTTP/1.1","req_ua":"PostmanRuntime/7.32.2","req_uri":"/promethusAlert","status_code":200,"time":"2023-04-15 21:58:47"}
